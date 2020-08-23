@@ -1,0 +1,45 @@
+Sep  7 19:42:14 ns111112 sshd[21076]: Bad protocol version identification 'GET / HTTP/1.1' from 94.26.118.247 port 56197
+Sep  7 19:42:14 ns111112 sshd[21077]: Bad protocol version identification 'GET / HTTP/1.1' from 94.26.118.247 port 56243
+Sep  7 19:42:15 ns111112 sshd[21078]: Bad protocol version identification '\026\003\001\001A\001' from 94.26.118.247 port 56298
+Sep  7 19:42:15 ns111112 sshd[21079]: Bad protocol version identification '\026\003\001\001A\001' from 94.26.118.247 port 56350
+Sep  7 19:42:16 ns111112 sshd[21080]: Bad protocol version identification '\026\003\001\001A\001' from 94.26.118.247 port 56402
+Sep  7 19:48:53 ns111112 sshd[22736]: Invalid user spark from 176.37.60.16 port 40741
+Sep  7 19:48:53 ns111112 sshd[22736]: input_userauth_request: invalid user spark [preauth]
+Sep  7 19:48:53 ns111112 sshd[22736]: Received disconnect from 176.37.60.16 port 40741:11: Bye Bye [preauth]
+Sep  7 19:48:53 ns111112 sshd[22736]: Disconnected from 176.37.60.16 port 40741 [preauth]
+Sep  7 19:49:35 ns111112 sshd[17099]: Received disconnect from 80.35.251.71 port 54173:11: disconnected by user
+Sep  7 19:49:35 ns111112 sshd[17099]: Disconnected from 80.35.251.71 port 54173
+Sep  7 19:51:34 ns111112 sshd[23276]: Accepted publickey for admin from 80.35.251.71 port 54368 ssh2: RSA SHA256:coD7i7X9WoJmHhQAP27xox1/adDl1gAfxBqhBm4U2pg
+Sep  7 19:51:34 ns111112 sshd[23277]: Accepted publickey for admin from 80.35.251.71 port 54369 ssh2: RSA SHA256:coD7i7X9WoJmHhQAP27xox1/adDl1gAfxBqhBm4U2pg
+Sep  7 19:51:37 ns111112 sshd[23281]: Received disconnect from 80.35.251.71 port 54369:11: disconnected by user
+Sep  7 19:51:37 ns111112 sshd[23281]: Disconnected from 80.35.251.71 port 54369
+Sep  7 19:51:46 ns111112 sshd[23537]: Received disconnect from 62.151.177.85 port 58746:11: Bye Bye [preauth]
+Sep  7 19:51:46 ns111112 sshd[23537]: Disconnected from 62.151.177.85 port 58746 [preauth]
+Sep  7 19:52:04 ns111112 sshd[23788]: Accepted publickey for admin from 80.35.251.71 port 54374 ssh2: RSA SHA256:coD7i7X9WoJmHhQAP27xox1/adDl1gAfxBqhBm4U2pg
+Sep  7 19:52:05 ns111112 sshd[23790]: Received disconnect from 80.35.251.71 port 54374:11: disconnected by user
+Sep  7 19:52:05 ns111112 sshd[23790]: Disconnected from 80.35.251.71 port 54374
+Sep  7 19:57:06 ns111112 sshd[25139]: Received disconnect from 51.91.110.51 port 44410:11: Bye Bye [preauth]
+Sep  7 19:57:06 ns111112 sshd[25139]: Disconnected from 51.91.110.51 port 44410 [preauth]
+Sep  7 19:57:31 ns111112 sshd[25158]: Accepted publickey for admin from 80.35.251.71 port 54399 ssh2: RSA SHA256:coD7i7X9WoJmHhQAP27xox1/adDl1gAfxBqhBm4U2pg
+Sep  7 19:57:34 ns111112 sshd[25160]: Received disconnect from 80.35.251.71 port 54399:11: disconnected by user
+Sep  7 19:57:34 ns111112 sshd[25160]: Disconnected from 80.35.251.71 port 54399
+Sep  7 19:58:27 ns111112 sshd[25180]: Did not receive identification string from 85.209.0.12 port 50896
+Sep  7 20:02:08 ns111112 sshd[26391]: Received disconnect from 104.248.244.119 port 47186:11: Bye Bye [preauth]
+Sep  7 20:02:08 ns111112 sshd[26391]: Disconnected from 104.248.244.119 port 47186 [preauth]
+Sep  7 20:02:19 ns111112 sshd[26612]: Invalid user shit from 80.35.251.71 port 54433
+Sep  7 20:02:19 ns111112 sshd[26612]: input_userauth_request: invalid user shit [preauth]
+Sep  7 20:02:20 ns111112 sshd[26612]: Connection closed by 80.35.251.71 port 54433 [preauth]
+Sep  7 20:02:34 ns111112 sshd[27012]: Received disconnect from 51.145.0.150 port 46182:11: Bye Bye [preauth]
+Sep  7 20:02:34 ns111112 sshd[27012]: Disconnected from 51.145.0.150 port 46182 [preauth]
+Sep  7 20:03:06 ns111112 sshd[27014]: Accepted publickey for admin from 80.35.251.71 port 54436 ssh2: RSA SHA256:coD7i7X9WoJmHhQAP27xox1/adDl1gAfxBqhBm4U2pg
+Sep  7 20:03:09 ns111112 sshd[27016]: Received disconnect from 80.35.251.71 port 54436:11: disconnected by user
+Sep  7 20:03:09 ns111112 sshd[27016]: Disconnected from 80.35.251.71 port 54436
+Sep  7 20:04:36 ns111112 sshd[27835]: Did not receive identification string from 85.209.0.252 port 26152
+Sep  7 20:04:39 ns111112 sshd[27909]: Connection closed by 85.209.0.252 port 28202 [preauth]
+Sep  7 20:04:40 ns111112 sshd[27911]: Connection closed by 85.209.0.252 port 28198 [preauth]
+Sep  7 20:06:22 ns111112 sshd[28114]: Accepted publickey for admin from 80.35.251.71 port 54443 ssh2: RSA SHA256:coD7i7X9WoJmHhQAP27xox1/adDl1gAfxBqhBm4U2pg
+Sep  7 20:06:25 ns111112 sshd[28116]: Received disconnect from 80.35.251.71 port 54443:11: disconnected by user
+Sep  7 20:06:25 ns111112 sshd[28116]: Disconnected from 80.35.251.71 port 54443
+Sep  7 20:06:55 ns111112 sshd[28450]: Accepted publickey for admin from 80.35.251.71 port 54445 ssh2: RSA SHA256:coD7i7X9WoJmHhQAP27xox1/adDl1gAfxBqhBm4U2pg
+Sep  7 20:06:55 ns111112 sshd[28452]: Received disconnect from 80.35.251.71 port 54445:11: disconnected by user
+Sep  7 20:06:55 ns111112 sshd[28452]: Disconnected from 80.35.251.71 port 54445
